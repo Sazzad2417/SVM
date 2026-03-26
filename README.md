@@ -1,4 +1,5 @@
 Support Vector Machine (SVM) on Wine Quality Dataset
+
 Overview
 This project presents the implementation of a Support Vector Machine (SVM) model to classify wine quality using a real-world dataset. The objective is to transform the original quality scores into a binary classification problem and evaluate the effectiveness of SVM with different kernel functions.
 The workflow follows a standard machine learning pipeline, including data preprocessing, visualization, model training, evaluation, and performance comparison.
